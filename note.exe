@@ -24,3 +24,8 @@ git init:저장소 만들기
 저장소별 사용자명/이메일 구성하기(해당 저장소 디렉터리로 이동후)
 git config user.name"Your name"
 git config user.email"Your email address"
+
+2022년 9월 15일:
+지역 브랜치 목록보기 git branch
+원격 브랜치 목록보기 git branch -r
+지역과 원격을 포함한 모든 브랜치 목록보기 git branch -a
